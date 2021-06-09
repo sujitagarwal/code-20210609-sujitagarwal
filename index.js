@@ -64,7 +64,7 @@ function fetchBMIStatistics(bmi)
     {
         bmiStats.range = "40 and above";
         bmiStats.category = "Very Severely Obese";
-        bmiStats.risk = "Very Risk";
+        bmiStats.risk = "Very High Risk";
     }
     return bmiStats;
 }
